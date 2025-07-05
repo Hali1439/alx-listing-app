@@ -6,6 +6,8 @@ The **Checkout Page** is the final step in the booking flow. It collects guest c
 
 ---
 
+![Check out](https://github.com/Hali1439/alx-listing-app/blob/bcbb1e6c4d9dd9fbe0d2f0193ee7d646ce14f7c8/public/assets/Check%20out.png)
+
 ## ✅ Key Sections
 
 ### 1. 👤 Contact Details
