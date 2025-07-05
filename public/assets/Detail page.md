@@ -1,8 +1,6 @@
-
-
 # 🏡 Detail Page - Airbnb Clone
 
-
+![Detail page](https://github.com/Hali1439/alx-listing-app/blob/c46bcbfb97a2ff54a8ba32931fdeb164c3fae7af/public/assets/Detail%20Page.png)
 ## 📄 Overview
 
 The **Property Detail Page** serves as the central hub where users can view in-depth information about a specific property, including images, pricing, amenities, availability, host details, and guest reviews. The design is fully responsive and optimized for desktop, tablet, and mobile views.
