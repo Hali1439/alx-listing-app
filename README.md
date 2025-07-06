@@ -1,4 +1,3 @@
-# alx-listing-app
 # ALX Listing App
 
 A modern Airbnb clone listing page built with Next.js, TypeScript, and Tailwind CSS.
